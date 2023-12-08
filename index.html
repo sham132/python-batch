@@ -195,17 +195,17 @@ text-align:center;
 
 <form  action="post" >
 
-<p> Name:  <input style="border-radius:20px"  type="text" placeholder="enter the name" name="name" /></p>
+<p> Name:  <input style="border-radius:20px"  type="text" placeholder="ehtasham" name="name" disabled required /></p>
 
-<p> Email:  <input style="border-radius:20px"  type="text" placeholder="enter the email" name="email" /></p>
+<p> Email:  <input style="border-radius:20px"  type="email" placeholder="enter the email" name="email" required  /></p>
 
-<p> Phone Number:  <input  style="border-radius:20px" type="number" placeholder="enter the phone number" name="number" /></p>
+<p> Phone Number:  <input  style="border-radius:20px" type="number" placeholder="enter the phone number" name="number" required /></p>
 
 <p> Gender:  <input style="border-radius:20px" checked type="radio"  name="gender" >Male </input> <input type="radio"  name="gender" >female </input></p>
 
 <p> Profession:  <input style="border-radius:20px" type="checkbox"  name="Aggriculture" >Aggriculture </input> <input type="checkbox"  name="Business" >Business </input><input type="checkbox"  name="ITProfession" >IT Profession </input> <input type="checkbox"  name="Docter" >Docter </input></p>
 
-<p> Education:  <select name="education">
+<p> Education:  <select name="education" required>
 <option id="" name="">select education</option>
 <option id="" name="">Matriculation</option>
 <option id="" name="">Inter</option>
@@ -213,7 +213,7 @@ text-align:center;
    </select></p>
 
 <p> Description:
-<textarea rows="4" col="4">
+<textarea rows="4" col="4" required>
 
 
 
