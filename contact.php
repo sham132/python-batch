@@ -37,6 +37,7 @@ input[type=submit]:hover {
   padding: 20px;
   width:50%
 }
+
 </style>
 <center>
 <h3>Contact Form</h3>

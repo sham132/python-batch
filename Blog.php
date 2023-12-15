@@ -79,6 +79,17 @@ html {
   <p>Resize the browser window to see that this page is responsive by the way.</p>
 </div>
 
+<br>
+<center>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+
+<br><br><br>
+<iframe width="70%" height="800" src="https://results.biserawalpindi.edu.pk"></iframe>
+
+</center>
 
 </div>
 
