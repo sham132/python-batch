@@ -45,9 +45,7 @@
 // console.log(add(1,3));
 // console.log(subtract(1,3));
 // console.log(multiply(1,3));
-// console.log(divide()); // call function which have the default values
-
-
+// console.log(divide()); // call function which have the default valu
 
 // function greet(){ 
 //     console.log("Welcome to GeeksforGeeks!"); 
